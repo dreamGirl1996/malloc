@@ -1,2 +1,3 @@
 # malloc
-this version has thread 
+this version realize multiple threads and lock
+it realizes malloc function
